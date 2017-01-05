@@ -1,3 +1,3 @@
-# Study h1
+# Study H1
 
 
