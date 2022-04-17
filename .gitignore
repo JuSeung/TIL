@@ -29,6 +29,10 @@
 .idea
 **/bin/
 
+## MacOS
+.DS_Store
+META-INF/context.xml
+
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,

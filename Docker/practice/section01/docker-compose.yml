@@ -1,0 +1,9 @@
+version: '2'
+services:
+  niginx:
+    image: nginx:latest
+    volumes:
+      - /Users/jsshin/WIDE/workspace/webapps/TIL/Docker/practice/index.html:/usr/share/nginx/html/index.html
+    ports:
+      - "50000:80"  
+    restart: always
