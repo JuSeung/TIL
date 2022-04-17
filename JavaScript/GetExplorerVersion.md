@@ -5,9 +5,7 @@
 	   
 	  
 	    
-***
-  
-  
+```
     function cfGetExplorerVersion(){  
 		 var word; 
 		 var version = "N/A"; 
@@ -29,7 +27,7 @@
 		 }
 		 return version; 
 	}
-	
+```
 	
 
  - 원본 : <http://stackoverflow.com/questions/19999388/jquery-check-if-user-is-using-ie>
