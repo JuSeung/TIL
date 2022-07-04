@@ -10,3 +10,16 @@
 
 # Git status 한글 깨짐
 - git config --global core.quotepath false
+
+
+# Git 개행문자
+## Windows CRLF(\r\n), Linux(\n)
+
+### Windows
+- git config --global core.autocrlf true
+
+### Linux, Max
+- git config --global core.autocrlf input
+
+### Windows 에서만 개발
+- git config --global core.autocrlf false
