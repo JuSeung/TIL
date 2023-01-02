@@ -23,3 +23,9 @@
 
 ### Windows 에서만 개발
 - git config --global core.autocrlf false
+
+# 로컬 브랜치 삭제 명령어
+- git branch -d dexx(local branch name)
+
+# 원격 브랜치 삭제 명령어
+- gir branch --delete dexx(remote branch name)
