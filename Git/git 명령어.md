@@ -29,3 +29,6 @@
 
 # 원격 브랜치 삭제 명령어
 - gir branch --delete dexx(remote branch name)
+
+# Git Cache 삭제 명령어 -> add -> commit
+- git rm -r --cached .
