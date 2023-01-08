@@ -1,6 +1,14 @@
 # Git 설정 확인
 - git config --list
 
+# Git 계정 병경
+- 모든 프로젝트에 영구 적용
+  - git config --global user.name 변경내용
+  - git config --global user.email 변경내용
+- 현재 레포지터리에 대해서만 영구 적용
+  - git config --local user.name 변경내용
+  - git config --local user.email 변경내용
+
 # Git 계정 정보 저장
 - 현재 레포지터리에 대해서만 영구 적용
   - git config credential.helper store
