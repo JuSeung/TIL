@@ -446,3 +446,5 @@ FodyWeavers.xsd
 
 # obsidian
 .obsidian
+*.iml
+TIL.iml
