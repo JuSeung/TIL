@@ -13,19 +13,16 @@
 
 ## 최근에 열었단 파일리스트 보기
 - ctrl + E
-
-## JAVA 실행
+## Java, Tomcat 실행
 - ctrl + shift + F10
-
-## 톰켓 실행
-- 
-
+## 화면 닫기
+- ctrl + F4
 ## 같은 화면 오른쪽 분할 (사용자 설정)
+- key map -> Split Right
 - shift + alt + V
 
 ## 분할 포커싱 이동(사용자 설정)
 - shift + alt + , (왼쪽)
 - shift + alt + . (오른쪽)
 
-## 화면 닫기
-- ctrl + F4
+
