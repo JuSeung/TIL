@@ -25,4 +25,8 @@
 - shift + alt + , (왼쪽)
 - shift + alt + . (오른쪽)
 
+## 한 번 누를 때마다 다음 같은 단어가 하나씩 선택
+- alt + J
 
+## 한 번에 모든 같은 단어 선택
+- ctrl + alt + shift + J
