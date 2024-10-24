@@ -32,6 +32,9 @@
 ### Windows 에서만 개발
 - git config --global core.autocrlf false
 
+### autocrlf 적용 이후에 도 waring 발생 시
+- git add --renormalize .
+
 # 로컬 브랜치 삭제 명령어
 - git branch -d dexx(local branch name)
 
